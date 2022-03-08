@@ -1,4 +1,4 @@
 #Global vars
-G=None
-pos=None
-color_map=None
+G = None
+pos = None
+color_map = None
